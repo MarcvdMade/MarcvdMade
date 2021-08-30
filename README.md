@@ -3,6 +3,13 @@
 <br>
 <h2 align="center">Cool stuff I made!</h2>
 <div>
-https://user-images.githubusercontent.com/55003488/131419075-0e72a2de-7174-44ee-82ec-7133e35a653b.mp4
-https://user-images.githubusercontent.com/55003488/131418943-00398d93-c5d7-423e-9459-5179b9e809f6.mp4
+
+
+https://user-images.githubusercontent.com/55003488/131419347-12f38941-8e1a-451b-ab41-8bed0787c147.mp4
+
+
+
+https://user-images.githubusercontent.com/55003488/131419364-b91be1f4-8dbe-49e9-a057-1dee557d11e0.mp4
+
+
 </div>
