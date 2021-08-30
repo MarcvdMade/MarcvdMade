@@ -9,8 +9,6 @@ Welcome to my GitHub
 <hr>
 
 <h2 align="center">
-  <a href="https://github.com/calvinhofman%22%3E
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=calvinhofman&count_private=true%22%3E
-  </a>
+  <a href="https://github.com/MarcvdMade</a>
   <br>
 </h2>
