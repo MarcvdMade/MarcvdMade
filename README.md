@@ -1,6 +1,15 @@
 <h1 align="center">Welcome to my github profile</h1>
 <p align="center">I'm a CMGT student at Hogeschool Rotterdam and i'm learning how to code</p>
 <br>
+<h2 align="center">Github Stats</h2>
+<div align="center">
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcvdMade)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</div>
+<br>
 <h2 align="center">Cool stuff I made!</h2>
 <div>
 
@@ -10,14 +19,6 @@ https://user-images.githubusercontent.com/55003488/131419347-12f38941-8e1a-451b-
 
 
 https://user-images.githubusercontent.com/55003488/131419364-b91be1f4-8dbe-49e9-a057-1dee557d11e0.mp4
-
-
-</div>
-<h2 align="center">Github Stats</h2>
-<div align="center">
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcvdMade)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
