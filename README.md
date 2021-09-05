@@ -15,7 +15,6 @@ https://user-images.githubusercontent.com/55003488/131419364-b91be1f4-8dbe-49e9-
 </div>
 <h2 align="center">Github Stats</h2>
 <div>
-    <a href="https://github.com/calvinhofman%22%3E
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=calvinhofman&count_private=true%22%3E
-  </a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcvdMade)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
