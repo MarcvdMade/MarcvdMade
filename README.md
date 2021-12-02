@@ -7,7 +7,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcvdMade&show_icons=true&theme=midnight-purple&count_private=true)](https://github.com/MarcvdMade)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcvdMade&layout=compact&theme=midnight-purple&count_private=true)](https://github.com/MarcvdMade)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinhofman&layout=compact&theme=midnight-purple&count_private=true)](https://github.com/MarcvdMade)
 
 
 
