@@ -1,5 +1,6 @@
 <h1 align="center">Welcome to my profile!</h1>
-<p align="center">I'm a CMGT student at Hogeschool Rotterdam and i'm learning how to code</p>
+<p align="center">I'm a Full Stack developer thats interested in all sorts of programming!</p>
+<p align="center">On my github page u will find a lot of projects some useful and others less useful😂</p>
 <br>
 <h2 align="center">Github Stats</h2>
 <div align="center">
