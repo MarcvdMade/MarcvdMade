@@ -5,9 +5,9 @@
 <h2 align="center">Github Stats</h2>
 <div align="center">
 
- <img align="center" width="70%" margin="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcvdMade&layout=compact&theme=midnight-purple&count_private=true" />
+ <img align="center" width="70%" style="margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcvdMade&layout=compact&theme=midnight-purple&count_private=true" />
 
- <img align="center" width="70%" margin="5px" src="https://github-readme-stats.vercel.app/api?username=MarcvdMade&show_icons=true&theme=midnight-purple&count_private=true" />
+ <img align="center" width="70%" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=MarcvdMade&show_icons=true&theme=midnight-purple&count_private=true" />
   
 </div>
 <br>
