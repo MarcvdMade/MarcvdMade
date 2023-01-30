@@ -18,7 +18,7 @@
 
 ![thumbnail-logo](https://user-images.githubusercontent.com/55003488/215484623-a53e126c-a794-4c8d-92fd-ad5838ec55f1.png)
 
-<p>I have been working in a team of 17 awesome people to create a horror game in 14 weeks. I had a fun time making the game and would love for all of you to see it. Go check it out!</p>
+<p>I have been working on a game with 16 other amazing people. It's been real fun and we made something really awesome. Go check out I won't Forget Hue!!!</p>
 
 <br>
 <h2 align="center">Cool stuff I made!</h2>
