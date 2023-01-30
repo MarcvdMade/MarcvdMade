@@ -14,7 +14,8 @@
   
 </div>
 <br>
-<a align="center" href="https://store.steampowered.com/app/2236880/I_Wont_Forget_Hue/"><h2>I Won't Forget Hue | Out on Steam!!!</h2></a>
+<h2>I Won't Forget Hue | Out on Steam!!!</h2>
+<a align="center" href="https://store.steampowered.com/app/2236880/I_Wont_Forget_Hue/">Steam Link</a>
 
 ![thumbnail-logo](https://user-images.githubusercontent.com/55003488/215484623-a53e126c-a794-4c8d-92fd-ad5838ec55f1.png)
 
