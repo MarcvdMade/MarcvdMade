@@ -16,8 +16,11 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics/metrics.plugin.isocalendar.fullyear.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics/metrics.plugin.anilist.svg
+          token: NOT_NEEDED
           base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year          
+          plugin_anilist: yes
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
+          plugin_anilist_limit: 5
+          plugin_anilist_user: WICK3DCHA0S
