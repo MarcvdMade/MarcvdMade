@@ -51,7 +51,8 @@
 
 <h3 align="center">Other games I worked on</h3>
 <div>
-<iframe src="https://itch.io/embed/2663455?dark=true" width="552" height="167" frameborder="0"><a href="https://luminora-games.itch.io/tub-troubles">Tub Troubles by Luminora Games, WICK3D_CHA0S, Micromiek, DepthsCradle, Qwinsie</a></iframe>
+
+[![Tub Troubles](https://itch.io/embed/2663455?dark=true)](https://luminora-games.itch.io/tub-troubles)
 </div>
 
 <br>
