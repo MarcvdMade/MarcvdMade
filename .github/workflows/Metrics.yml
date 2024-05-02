@@ -16,7 +16,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-        
           - name: Large Display
             uses: lowlighter/metrics@master
             with:
@@ -28,7 +27,6 @@ jobs:
               user: MarcvdMade
               plugins_errors_fatal: yes
             if: ${{ success() || failure() }}
-
           - name: >-
               🌸 Anilist watch list and reading list - Favorites anime and currently
               watching
