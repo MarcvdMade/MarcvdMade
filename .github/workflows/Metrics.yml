@@ -16,7 +16,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics/metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
       - name: 💡 Coding habits and activity - Mildly interesting facts
         uses: lowlighter/metrics@master
@@ -37,7 +36,7 @@ jobs:
           watching
         uses: lowlighter/metrics@master
         with:
-          filename: metrics/metrics.plugin.anilist.svg
+          filename: metrics.plugin.anilist.svg
           token: NOT_NEEDED
           base: ""
           plugin_anilist: yes
