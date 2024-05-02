@@ -16,6 +16,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
           plugin_anilist_user: WICK3DCHA0S
           plugin_anilist: yes
           plugin_anilist_sections: characters
