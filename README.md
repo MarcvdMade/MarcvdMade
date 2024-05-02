@@ -52,7 +52,7 @@
 <h3 align="center">Other games I worked on</h3>
 <div>
 
-[![Tub Troubles](https://itch.io/embed/2663455?dark=true)](https://luminora-games.itch.io/tub-troubles)
+[![Tub Troubles](/svg/tub-troubles.svg)](https://luminora-games.itch.io/tub-troubles)
 </div>
 
 <br>
