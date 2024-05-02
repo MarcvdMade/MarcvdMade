@@ -2,6 +2,11 @@
 <p align="center">I'm a Game developer & Full Stack developer thats interested in all sorts of programming!</p>
 <p align="center">On my github page u will find a lot of projects some useful and others less useful😂</p>
 <br>
+
+ ![Metrics](/github-metrics.svg)
+
+ <br>
+ 
 <h2 align="center">Github Stats</h2>
 <div align="center">
 
@@ -18,7 +23,6 @@
 
  <br />
 
- ![Metrics](/github-metrics.svg)
   
 </div>
 <br>
