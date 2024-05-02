@@ -16,32 +16,33 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics/metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-
-      - name: 🧱 Core - Large display
+      - name: Large Display
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.large.svg
+          filename: metrics/metrics.large.svg
           token: ${{ secrets.METRICS_TOKEN }}
           config_display: large
           output_action: none
-          delay: 120
-          user: lowlighter
+          delay: 60
+          user: MarcvdMade
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
 
-      - name: 🌸 Anilist watch list and reading list - Favorites characters
+      - name: >-
+          🌸 Anilist watch list and reading list - Favorites anime and currently
+          watching
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.anilist.characters.svg
+          filename: metrics.plugin.anilist.svg
           token: NOT_NEEDED
           base: ""
           plugin_anilist: yes
-          plugin_anilist_sections: characters
-          plugin_anilist_limit_characters: 22
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
+          plugin_anilist_limit: 5
+          plugin_anilist_user: WICK3DCHA0S
           output_action: none
-          delay: 120
+          delay: 60
           user: WICK3DCHA0S
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
