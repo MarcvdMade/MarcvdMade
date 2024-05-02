@@ -14,24 +14,20 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          
-          filename: metrics.plugin.anilist.characters.svg
-          base: ""
-          plugin_anilist: yes
-          plugin_anilist_limit_characters: 22
-          plugin_anilist_medias: characters
-          plugin_anilist_user: WICK3DCHA0S
+      # - uses: lowlighter/metrics@latest
+      #   with:
+      #     token: ${{ secrets.METRICS_TOKEN }}
 
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          
-          filename: metrics.plugin.anilist.svg
+          filename: metrics.plugin.anilist.characters.svg
+          token: NOT_NEEDED
           base: ""
           plugin_anilist: yes
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, watching
-          plugin_anilist_user: WICK3DCHA0S
+          plugin_anilist_sections: characters
+          plugin_anilist_limit_characters: 22
+          output_action: none
+          delay: 120
+          user: WICK3DCHA0S
+          plugins_errors_fatal: yes
+        if: ${{ success() || failure() }}
