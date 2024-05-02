@@ -16,11 +16,12 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics/metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
       - name: 💡 Coding habits and activity - Mildly interesting facts
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.habits.facts.svg
+          filename: metrics/metrics.plugin.habits.facts.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_habits: yes
@@ -28,6 +29,23 @@ jobs:
           plugin_habits_charts: no
           config_timezone: Europe/Amsterdam
           output_action: none
-          delay: 60
+          delay: 120
+          plugins_errors_fatal: yes
+        if: ${{ success() || failure() }}
+      - name: >-
+          🌸 Anilist watch list and reading list - Favorites anime and currently
+          watching
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics/metrics.plugin.anilist.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
+          plugin_anilist_limit: 1
+          plugin_anilist_user: WICK3DCHA0S
+          output_action: none
+          delay: 120
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
