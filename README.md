@@ -48,14 +48,6 @@
 <p>I have been working on a game with 16 other amazing people. It's been real fun and we made something really awesome. Go check out I won't Forget Hue!!!</p>
 
 <br>
-
-<h3 align="center">Other games I worked on</h3>
-<div>
-
-[![Tub Troubles](/svg/tub-troubles.svg)](https://luminora-games.itch.io/tub-troubles)
-</div>
-
-<br>
 <h2 align="center">Cool stuff I made!</h2>
 <div>
 
