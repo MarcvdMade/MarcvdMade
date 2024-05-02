@@ -3,9 +3,19 @@
 <p align="center">On my github page u will find a lot of projects some useful and others less useful😂</p>
 <br>
 
- <br>
+<br>
+<h2 align="center">My Metrics</h2>
+<img align="center" src="/metrics/metrics.plugin.anilist.characters.svg" alt="Anime Characters" width="100%">
+
+<br>
+
+<img align="center" src="/metrics/metrics.plugin.anilist.svg" alt="Anime Watching" width="100%">
+
+<br>
+
+<sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
  
-<h2 align="center">Github Stats</h2>
+<!-- <h2 align="center">Github Stats</h2>
 <div align="center">
 
  <img align="center" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcvdMade&layout=compact&theme=midnight-purple&count_private=true" />
@@ -19,7 +29,7 @@
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=MarcvdMade)](https://github.com/MarcvdMade)
 
- <br />
+ <br /> -->
 
   
 </div>
