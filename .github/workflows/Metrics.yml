@@ -20,7 +20,7 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.anilist.characters.svg
+          filename: metrics/metrics.plugin.anilist.characters.svg
           token: NOT_NEEDED
           base: ""
           plugin_anilist: yes
@@ -29,5 +29,3 @@ jobs:
           output_action: none
           delay: 120
           user: WICK3DCHA0S
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}

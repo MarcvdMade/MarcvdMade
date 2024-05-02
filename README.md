@@ -3,8 +3,6 @@
 <p align="center">On my github page u will find a lot of projects some useful and others less useful😂</p>
 <br>
 
- ![Metrics](/github-metrics.svg)
-
  <br>
  
 <h2 align="center">Github Stats</h2>
