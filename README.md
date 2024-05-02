@@ -13,7 +13,7 @@
  <img align="center" width="70%" src="https://github-readme-stats.vercel.app/api?username=MarcvdMade&show_icons=true&theme=midnight-purple&count_private=true" />
  <br />
  <br />
- [![trophy](https://github-profile-trophy.vercel.app/?username=MarcvdMade)](https://github.com/MarcvdMade/github-profile-trophy)
+ ![trophy](https://github-profile-trophy.vercel.app/?username=MarcvdMade)](https://github.com/MarcvdMade/github-profile-trophy)
   
 </div>
 <br>
