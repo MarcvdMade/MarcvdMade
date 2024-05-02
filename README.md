@@ -15,6 +15,10 @@
  <br />
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=MarcvdMade)](https://github.com/MarcvdMade)
+
+ <br />
+
+ ![Metrics](/github-metrics.svg)
   
 </div>
 <br>
