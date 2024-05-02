@@ -48,6 +48,13 @@
 <p>I have been working on a game with 16 other amazing people. It's been real fun and we made something really awesome. Go check out I won't Forget Hue!!!</p>
 
 <br>
+
+<h3 align="center">Other games I worked on</h3>
+<div>
+<iframe src="https://itch.io/embed/2663455?dark=true" width="552" height="167" frameborder="0"><a href="https://luminora-games.itch.io/tub-troubles">Tub Troubles by Luminora Games, WICK3D_CHA0S, Micromiek, DepthsCradle, Qwinsie</a></iframe>
+</div>
+
+<br>
 <h2 align="center">Cool stuff I made!</h2>
 <div>
 
